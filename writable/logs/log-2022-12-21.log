@@ -1,0 +1,66 @@
+CRITICAL - 2022-12-21 00:09:27 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_detailjobs.php on line 92.
+ 1 APPPATH\Views\v_detailjobs.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\v_detailjobs.php', 92)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_detailjobs.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_detailjobs', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(33): view('v_detailjobs', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->jobs_detail('FCPATH\\assets', 'img', 'favicon.png')
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-21 00:13:01 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_detailjobs.php on line 92.
+ 1 APPPATH\Views\v_detailjobs.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\v_detailjobs.php', 92)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_detailjobs.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_detailjobs', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(33): view('v_detailjobs', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->jobs_detail('FCPATH\\assets', 'img', 'favicon.png')
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-21 00:14:00 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_detailjobs.php on line 92.
+ 1 APPPATH\Views\v_detailjobs.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\v_detailjobs.php', 92)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_detailjobs.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_detailjobs', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(33): view('v_detailjobs', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->jobs_detail('FCPATH\\assets', 'img', 'favicon.png')
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-21 00:15:29 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_detailjobs.php on line 92.
+ 1 APPPATH\Views\v_detailjobs.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\v_detailjobs.php', 92)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_detailjobs.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_detailjobs', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(33): view('v_detailjobs', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->jobs_detail('FCPATH\\assets', 'img', 'favicon.png')
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-21 00:15:47 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_detailjobs.php on line 92.
+ 1 APPPATH\Views\v_detailjobs.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\v_detailjobs.php', 92)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_detailjobs.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_detailjobs', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(33): view('v_detailjobs', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->jobs_detail('FCPATH\\assets', 'img', 'favicon.png')
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-21 00:15:49 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_detailjobs.php on line 92.
+ 1 APPPATH\Views\v_detailjobs.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\v_detailjobs.php', 92)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_detailjobs.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_detailjobs', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(33): view('v_detailjobs', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->jobs_detail('FCPATH\\assets', 'img', 'favicon.png')
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

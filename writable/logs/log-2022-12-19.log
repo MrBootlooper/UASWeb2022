@@ -1,0 +1,623 @@
+CRITICAL - 2022-12-19 01:28:46 --> Cannot access offset of type string on string
+in APPPATH\Views\admin\v_admin.php on line 50.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 4 APPPATH\Views\v_template.php(165): view('admin/v_admin')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 8 APPPATH\Controllers\Admin.php(97): view('v_template', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('8')
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 01:29:50 --> Cannot access offset of type string on string
+in APPPATH\Views\admin\v_admin.php on line 50.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 4 APPPATH\Views\v_template.php(165): view('admin/v_admin')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 8 APPPATH\Controllers\Admin.php(89): view('v_template', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('8')
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 01:29:51 --> Cannot access offset of type string on string
+in APPPATH\Views\admin\v_admin.php on line 50.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 4 APPPATH\Views\v_template.php(165): view('admin/v_admin')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 8 APPPATH\Controllers\Admin.php(89): view('v_template', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('8')
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 01:30:11 --> Cannot access offset of type string on string
+in APPPATH\Views\admin\v_admin.php on line 49.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 4 APPPATH\Views\v_template.php(165): view('admin/v_admin')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 8 APPPATH\Controllers\Admin.php(89): view('v_template', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('8')
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 01:30:12 --> Cannot access offset of type string on string
+in APPPATH\Views\admin\v_admin.php on line 49.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 4 APPPATH\Views\v_template.php(165): view('admin/v_admin')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 8 APPPATH\Controllers\Admin.php(89): view('v_template', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('8')
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 01:31:17 --> Cannot access offset of type string on string
+in APPPATH\Views\admin\v_admin.php on line 49.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 4 APPPATH\Views\v_template.php(165): view('admin/v_admin')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 8 APPPATH\Controllers\Admin.php(89): view('v_template', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('8')
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 01:31:18 --> Cannot access offset of type string on string
+in APPPATH\Views\admin\v_admin.php on line 49.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 4 APPPATH\Views\v_template.php(165): view('admin/v_admin')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 8 APPPATH\Controllers\Admin.php(89): view('v_template', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('8')
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-19 01:51:00 --> mysqli_sql_exception: Table 'uasweb2022.admin' doesn't exist in C:\xampp\htdocs\ci4admin\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4admin\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\ci4admin\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4admin\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4admin\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4admin\app\Models\ModelAuth.php(19): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4admin\app\Controllers\Auth.php(104): App\Models\ModelAuth->login('michael.wahyuri...', 'pemrogramanweb')
+#6 C:\xampp\htdocs\ci4admin\system\CodeIgniter.php(927): App\Controllers\Auth->proses_login()
+#7 C:\xampp\htdocs\ci4admin\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\ci4admin\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4admin\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-12-19 01:51:00 --> Table 'uasweb2022.admin' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *
+FROM `admin`
+WHERE `email` = \'michael.wahyurizky@student.upj.ac.id\'
+AND `password` = \'pemrogramanweb\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `admin`
+WHERE `email` = \'michael.wahyurizky@student.upj.ac.id\'
+AND `password` = \'pemrogramanweb\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `admin`
+WHERE `email` = \'michael.wahyurizky@student.upj.ac.id\'
+AND `password` = \'pemrogramanweb\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `admin`
+WHERE `email` = :email:
+AND `password` = :password:', [...], false)
+ 5 APPPATH\Models\ModelAuth.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Auth.php(104): App\Models\ModelAuth->login('michael.wahyurizky@student.upj.ac.id', 'pemrogramanweb')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Auth->proses_login()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-19 01:51:49 --> mysqli_sql_exception: Table 'uasweb2022.admin' doesn't exist in C:\xampp\htdocs\ci4admin\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4admin\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\ci4admin\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4admin\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4admin\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4admin\app\Models\ModelAuth.php(19): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4admin\app\Controllers\Auth.php(104): App\Models\ModelAuth->login('michael.wahyuri...', 'pemrogramanweb')
+#6 C:\xampp\htdocs\ci4admin\system\CodeIgniter.php(927): App\Controllers\Auth->proses_login()
+#7 C:\xampp\htdocs\ci4admin\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\ci4admin\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4admin\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-12-19 01:51:49 --> Table 'uasweb2022.admin' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *
+FROM `admin`
+WHERE `email` = \'michael.wahyurizky@student.upj.ac.id\'
+AND `password` = \'pemrogramanweb\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `admin`
+WHERE `email` = \'michael.wahyurizky@student.upj.ac.id\'
+AND `password` = \'pemrogramanweb\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `admin`
+WHERE `email` = \'michael.wahyurizky@student.upj.ac.id\'
+AND `password` = \'pemrogramanweb\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `admin`
+WHERE `email` = :email:
+AND `password` = :password:', [...], false)
+ 5 APPPATH\Models\ModelAuth.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Auth.php(104): App\Models\ModelAuth->login('michael.wahyurizky@student.upj.ac.id', 'pemrogramanweb')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Auth->proses_login()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-12-19 01:51:55 --> mysqli_sql_exception: Table 'uasweb2022.admin' doesn't exist in C:\xampp\htdocs\ci4admin\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\ci4admin\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\ci4admin\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4admin\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4admin\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4admin\app\Models\ModelAuth.php(19): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4admin\app\Controllers\Auth.php(104): App\Models\ModelAuth->login('michael.wahyuri...', 'pemrogramanweb')
+#6 C:\xampp\htdocs\ci4admin\system\CodeIgniter.php(927): App\Controllers\Auth->proses_login()
+#7 C:\xampp\htdocs\ci4admin\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#8 C:\xampp\htdocs\ci4admin\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4admin\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-12-19 01:51:55 --> Table 'uasweb2022.admin' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *
+FROM `admin`
+WHERE `email` = \'michael.wahyurizky@student.upj.ac.id\'
+AND `password` = \'pemrogramanweb\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `admin`
+WHERE `email` = \'michael.wahyurizky@student.upj.ac.id\'
+AND `password` = \'pemrogramanweb\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `admin`
+WHERE `email` = \'michael.wahyurizky@student.upj.ac.id\'
+AND `password` = \'pemrogramanweb\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `admin`
+WHERE `email` = :email:
+AND `password` = :password:', [...], false)
+ 5 APPPATH\Models\ModelAuth.php(19): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Auth.php(104): App\Models\ModelAuth->login('michael.wahyurizky@student.upj.ac.id', 'pemrogramanweb')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Auth->proses_login()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 09:39:52 --> Undefined variable $loker
+in APPPATH\Views\v_loker.php on line 64.
+ 1 APPPATH\Views\v_loker.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loker', 'APPPATH\\Views\\v_loker.php', 64)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_loker.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_loker', [], true)
+ 5 APPPATH\Controllers\Loker.php(11): view('v_loker')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Loker->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Loker))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 09:40:28 --> Undefined variable $id
+in APPPATH\Views\v_loker.php on line 62.
+ 1 APPPATH\Views\v_loker.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'APPPATH\\Views\\v_loker.php', 62)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_loker.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_loker', [], true)
+ 5 APPPATH\Controllers\Loker.php(11): view('v_loker')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Loker->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Loker))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 09:42:23 --> Undefined variable $id_loker
+in APPPATH\Views\v_loker.php on line 170.
+ 1 APPPATH\Views\v_loker.php(170): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_loker', 'APPPATH\\Views\\v_loker.php', 170)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_loker.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_loker', [], true)
+ 5 APPPATH\Controllers\Loker.php(11): view('v_loker')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Loker->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Loker))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 09:47:33 --> Cannot access offset of type string on string
+in APPPATH\Views\admin\v_admin.php on line 49.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 4 APPPATH\Views\v_template.php(156): view('admin/v_admin')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 8 APPPATH\Controllers\Admin.php(89): view('v_template', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('8')
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 09:47:47 --> Cannot access offset of type string on string
+in APPPATH\Views\admin\v_admin.php on line 49.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 4 APPPATH\Views\v_template.php(156): view('admin/v_admin')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 8 APPPATH\Controllers\Admin.php(89): view('v_template', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('8')
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 09:50:18 --> Cannot access offset of type string on string
+in APPPATH\Views\admin\v_admin.php on line 49.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 4 APPPATH\Views\v_template.php(156): view('admin/v_admin')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 8 APPPATH\Controllers\Admin.php(89): view('v_template', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('8')
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 09:50:19 --> Cannot access offset of type string on string
+in APPPATH\Views\admin\v_admin.php on line 49.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 4 APPPATH\Views\v_template.php(156): view('admin/v_admin')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 8 APPPATH\Controllers\Admin.php(89): view('v_template', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('8')
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 09:51:54 --> Cannot access offset of type string on string
+in APPPATH\Views\admin\v_admin.php on line 50.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 4 APPPATH\Views\v_template.php(156): view('admin/v_admin')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 8 APPPATH\Controllers\Admin.php(89): view('v_template', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('8')
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 09:53:40 --> Cannot access offset of type string on string
+in APPPATH\Views\admin\v_admin.php on line 49.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 4 APPPATH\Views\v_template.php(156): view('admin/v_admin')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 8 APPPATH\Controllers\Admin.php(89): view('v_template', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('8')
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 09:54:16 --> Cannot access offset of type string on string
+in APPPATH\Views\admin\v_admin.php on line 51.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 4 APPPATH\Views\v_template.php(156): view('admin/v_admin')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 8 APPPATH\Controllers\Admin.php(89): view('v_template', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('8')
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 09:58:58 --> Cannot access offset of type string on string
+in APPPATH\Views\admin\v_admin.php on line 49.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 4 APPPATH\Views\v_template.php(156): view('admin/v_admin')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 8 APPPATH\Controllers\Admin.php(89): view('v_template', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('8')
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 09:59:06 --> Undefined variable $judul
+in APPPATH\Views\v_loker.php on line 74.
+ 1 APPPATH\Views\v_loker.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $judul', 'APPPATH\\Views\\v_loker.php', 74)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_loker.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_loker', [], true)
+ 5 APPPATH\Controllers\Loker.php(11): view('v_loker')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Loker->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Loker))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:04:52 --> Undefined variable $judul
+in APPPATH\Views\v_loker.php on line 74.
+ 1 APPPATH\Views\v_loker.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $judul', 'APPPATH\\Views\\v_loker.php', 74)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_loker.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_loker', [], true)
+ 5 APPPATH\Controllers\Loker.php(18): view('v_loker')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Loker->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Loker))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:05:10 --> Undefined variable $loker
+in APPPATH\Views\v_loker.php on line 121.
+ 1 APPPATH\Views\v_loker.php(121): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loker', 'APPPATH\\Views\\v_loker.php', 121)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_loker.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_loker', [], true)
+ 5 APPPATH\Controllers\Loker.php(25): view('v_loker', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Loker->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Loker))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:07:24 --> Undefined property: App\Controllers\Loker::$ModelJobs
+in APPPATH\Controllers\Loker.php on line 219.
+ 1 APPPATH\Controllers\Loker.php(219): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Loker::$ModelJobs', 'APPPATH\\Controllers\\Loker.php', 219)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Loker->Delete('11')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Loker))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:37:12 --> Undefined variable $loker
+in APPPATH\Views\v_loker.php on line 87.
+ 1 APPPATH\Views\v_loker.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loker', 'APPPATH\\Views\\v_loker.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_loker.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_loker', [], true)
+ 5 APPPATH\Controllers\Loker.php(12): view('v_loker')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Loker->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Loker))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:38:36 --> Undefined variable $loker
+in APPPATH\Views\v_loker.php on line 87.
+ 1 APPPATH\Views\v_loker.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loker', 'APPPATH\\Views\\v_loker.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_loker.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_loker', [], true)
+ 5 APPPATH\Controllers\Loker.php(12): view('v_loker')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Loker->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Loker))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:38:37 --> Undefined variable $loker
+in APPPATH\Views\v_loker.php on line 87.
+ 1 APPPATH\Views\v_loker.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loker', 'APPPATH\\Views\\v_loker.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_loker.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_loker', [], true)
+ 5 APPPATH\Controllers\Loker.php(12): view('v_loker')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Loker->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Loker))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:38:40 --> Undefined variable $loker
+in APPPATH\Views\v_loker.php on line 87.
+ 1 APPPATH\Views\v_loker.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loker', 'APPPATH\\Views\\v_loker.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_loker.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_loker', [], true)
+ 5 APPPATH\Controllers\Loker.php(12): view('v_loker')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Loker->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Loker))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:41:28 --> Undefined variable $loker
+in APPPATH\Views\v_loker.php on line 87.
+ 1 APPPATH\Views\v_loker.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loker', 'APPPATH\\Views\\v_loker.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_loker.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_loker', [], true)
+ 5 APPPATH\Controllers\Loker.php(18): view('v_loker')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Loker->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Loker))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:41:29 --> Undefined variable $loker
+in APPPATH\Views\v_loker.php on line 87.
+ 1 APPPATH\Views\v_loker.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loker', 'APPPATH\\Views\\v_loker.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_loker.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_loker', [], true)
+ 5 APPPATH\Controllers\Loker.php(18): view('v_loker')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Loker->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Loker))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:42:36 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Loker.php(23): CodeIgniter\Model->__call('AllData', [])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Loker->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Loker))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:43:20 --> Undefined variable $loker
+in APPPATH\Views\v_loker.php on line 87.
+ 1 APPPATH\Views\v_loker.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $loker', 'APPPATH\\Views\\v_loker.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_loker.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_loker', [], true)
+ 5 APPPATH\Controllers\Loker.php(25): view('v_loker')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Loker->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Loker))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:48:02 --> Undefined variable $jobs
+in APPPATH\Views\v_jobsdetail.php on line 87.
+ 1 APPPATH\Views\v_jobsdetail.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jobs', 'APPPATH\\Views\\v_jobsdetail.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_jobsdetail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_jobsdetail', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(25): view('v_jobsdetail')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:48:13 --> Undefined variable $jobs
+in APPPATH\Views\v_jobsdetail.php on line 87.
+ 1 APPPATH\Views\v_jobsdetail.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jobs', 'APPPATH\\Views\\v_jobsdetail.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_jobsdetail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_jobsdetail', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(25): view('v_jobsdetail')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:48:15 --> Undefined variable $jobs
+in APPPATH\Views\v_jobsdetail.php on line 87.
+ 1 APPPATH\Views\v_jobsdetail.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jobs', 'APPPATH\\Views\\v_jobsdetail.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_jobsdetail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_jobsdetail', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(25): view('v_jobsdetail')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:48:19 --> Undefined variable $jobs
+in APPPATH\Views\v_jobsdetail.php on line 87.
+ 1 APPPATH\Views\v_jobsdetail.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jobs', 'APPPATH\\Views\\v_jobsdetail.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_jobsdetail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_jobsdetail', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(25): view('v_jobsdetail')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:51:03 --> Undefined variable $jobs
+in APPPATH\Views\v_jobsdetail.php on line 87.
+ 1 APPPATH\Views\v_jobsdetail.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jobs', 'APPPATH\\Views\\v_jobsdetail.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_jobsdetail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_jobsdetail', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(25): view('v_jobsdetail')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:51:42 --> Undefined variable $jobs
+in APPPATH\Views\v_jobsdetail.php on line 87.
+ 1 APPPATH\Views\v_jobsdetail.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jobs', 'APPPATH\\Views\\v_jobsdetail.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_jobsdetail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_jobsdetail', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(25): view('v_jobsdetail')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:51:43 --> Undefined variable $jobs
+in APPPATH\Views\v_jobsdetail.php on line 87.
+ 1 APPPATH\Views\v_jobsdetail.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jobs', 'APPPATH\\Views\\v_jobsdetail.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_jobsdetail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_jobsdetail', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(25): view('v_jobsdetail')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:51:43 --> Undefined variable $jobs
+in APPPATH\Views\v_jobsdetail.php on line 87.
+ 1 APPPATH\Views\v_jobsdetail.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jobs', 'APPPATH\\Views\\v_jobsdetail.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_jobsdetail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_jobsdetail', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(25): view('v_jobsdetail')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:51:43 --> Undefined variable $jobs
+in APPPATH\Views\v_jobsdetail.php on line 87.
+ 1 APPPATH\Views\v_jobsdetail.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jobs', 'APPPATH\\Views\\v_jobsdetail.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_jobsdetail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_jobsdetail', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(25): view('v_jobsdetail')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:54:33 --> Undefined variable $jobs
+in APPPATH\Views\v_jobsdetail.php on line 87.
+ 1 APPPATH\Views\v_jobsdetail.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jobs', 'APPPATH\\Views\\v_jobsdetail.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_jobsdetail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_jobsdetail', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(25): view('v_jobsdetail')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:54:34 --> Undefined variable $jobs
+in APPPATH\Views\v_jobsdetail.php on line 87.
+ 1 APPPATH\Views\v_jobsdetail.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jobs', 'APPPATH\\Views\\v_jobsdetail.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_jobsdetail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_jobsdetail', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(25): view('v_jobsdetail')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:54:39 --> Undefined variable $jobs
+in APPPATH\Views\v_jobsdetail.php on line 87.
+ 1 APPPATH\Views\v_jobsdetail.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jobs', 'APPPATH\\Views\\v_jobsdetail.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_jobsdetail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_jobsdetail', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(25): view('v_jobsdetail')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-19 10:55:51 --> Undefined variable $jobs
+in APPPATH\Views\v_jobsdetail.php on line 87.
+ 1 APPPATH\Views\v_jobsdetail.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jobs', 'APPPATH\\Views\\v_jobsdetail.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_jobsdetail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_jobsdetail', [], true)
+ 5 APPPATH\Controllers\Jobs_detail.php(25): view('v_jobsdetail')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Jobs_detail->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jobs_detail))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

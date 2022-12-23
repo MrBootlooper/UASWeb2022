@@ -1,0 +1,174 @@
+CRITICAL - 2022-12-17 02:22:33 --> Undefined property: App\Controllers\Admin::$ModelAdmin
+in APPPATH\Controllers\Admin.php on line 23.
+ 1 APPPATH\Controllers\Admin.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelAdmin', 'APPPATH\\Controllers\\Admin.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 02:25:02 --> Undefined property: App\Controllers\Admin::$ModelAdmin
+in APPPATH\Controllers\Admin.php on line 23.
+ 1 APPPATH\Controllers\Admin.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelAdmin', 'APPPATH\\Controllers\\Admin.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 02:25:42 --> Invalid file: v_admin.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_admin.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_admin', [], true)
+ 3 APPPATH\Views\v_template.php(165): view('v_admin')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 7 APPPATH\Controllers\Admin.php(25): view('v_template', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->index()
+ 9 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+10 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 02:32:01 --> Undefined property: App\Controllers\Admin::$ModelAdmin
+in APPPATH\Controllers\Admin.php on line 23.
+ 1 APPPATH\Controllers\Admin.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelAdmin', 'APPPATH\\Controllers\\Admin.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 02:32:18 --> Undefined property: App\Controllers\Admin::$ModelAdmin
+in APPPATH\Controllers\Admin.php on line 23.
+ 1 APPPATH\Controllers\Admin.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelAdmin', 'APPPATH\\Controllers\\Admin.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 02:32:37 --> Undefined variable $admin
+in APPPATH\Views\admin\v_admin.php on line 24.
+ 1 APPPATH\Views\admin\v_admin.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $admin', 'APPPATH\\Views\\admin\\v_admin.php', 24)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admin\\v_admin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(165): view('admin/v_admin')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(25): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 02:41:39 --> Undefined variable $admin
+in APPPATH\Views\admin\v_admin.php on line 24.
+ 1 APPPATH\Views\admin\v_admin.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $admin', 'APPPATH\\Views\\admin\\v_admin.php', 24)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admin\\v_admin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(165): view('admin/v_admin')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(25): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 02:42:08 --> Undefined variable $admin
+in APPPATH\Views\admin\v_admin.php on line 24.
+ 1 APPPATH\Views\admin\v_admin.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $admin', 'APPPATH\\Views\\admin\\v_admin.php', 24)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admin\\v_admin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(165): view('admin/v_admin')
+ 6 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(25): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 02:45:58 --> Undefined property: App\Controllers\Admin::$ModelAdmin
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelAdmin', 'APPPATH\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('3')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 02:47:32 --> Undefined property: App\Controllers\Admin::$ModelAdmin
+in APPPATH\Controllers\Admin.php on line 95.
+ 1 APPPATH\Controllers\Admin.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelAdmin', 'APPPATH\\Controllers\\Admin.php', 95)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Delete('4')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 02:49:43 --> Undefined property: App\Controllers\Admin::$ModelAdmin
+in APPPATH\Controllers\Admin.php on line 95.
+ 1 APPPATH\Controllers\Admin.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelAdmin', 'APPPATH\\Controllers\\Admin.php', 95)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Delete('4')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 02:49:44 --> Undefined property: App\Controllers\Admin::$ModelAdmin
+in APPPATH\Controllers\Admin.php on line 95.
+ 1 APPPATH\Controllers\Admin.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelAdmin', 'APPPATH\\Controllers\\Admin.php', 95)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Delete('4')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 02:49:49 --> Undefined property: App\Controllers\Admin::$ModelAdmin
+in APPPATH\Controllers\Admin.php on line 95.
+ 1 APPPATH\Controllers\Admin.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelAdmin', 'APPPATH\\Controllers\\Admin.php', 95)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Delete('3')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 02:53:31 --> Undefined property: App\Controllers\Admin::$ModelAdmin
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelAdmin', 'APPPATH\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('3')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 02:54:29 --> Undefined property: App\Controllers\Admin::$ModelAdmin
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelAdmin', 'APPPATH\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('3')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 02:54:29 --> Undefined property: App\Controllers\Admin::$ModelAdmin
+in APPPATH\Controllers\Admin.php on line 23.
+ 1 APPPATH\Controllers\Admin.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelAdmin', 'APPPATH\\Controllers\\Admin.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 02:54:31 --> Undefined property: App\Controllers\Admin::$ModelAdmin
+in APPPATH\Controllers\Admin.php on line 23.
+ 1 APPPATH\Controllers\Admin.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Admin::$ModelAdmin', 'APPPATH\\Controllers\\Admin.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 03:00:13 --> Cannot access offset of type string on string
+in APPPATH\Views\admin\v_admin.php on line 40.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_admin', [], true)
+ 4 APPPATH\Views\v_template.php(165): view('admin/v_admin')
+ 5 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_template.php')
+ 6 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 7 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_template', [], true)
+ 8 APPPATH\Controllers\Admin.php(37): view('v_template', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Edit('3')
+10 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-17 03:05:05 --> Undefined variable $admin
+in APPPATH\Views\admin\v_print.php on line 38.
+ 1 APPPATH\Views\admin\v_print.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $admin', 'APPPATH\\Views\\admin\\v_print.php', 38)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\admin\\v_print.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/v_print', [], true)
+ 5 APPPATH\Controllers\Admin.php(108): view('admin/v_print', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->Print()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
